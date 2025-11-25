@@ -1,0 +1,16 @@
+E:\Image proccessing\DDA Algorithm\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.exe
+E:\Image proccessing\DDA Algorithm\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.deps.json
+E:\Image proccessing\DDA Algorithm\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.runtimeconfig.json
+E:\Image proccessing\DDA Algorithm\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.dll
+E:\Image proccessing\DDA Algorithm\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.pdb
+E:\Image proccessing\DDA Algorithm\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Form1.resources
+E:\Image proccessing\DDA Algorithm\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+E:\Image proccessing\DDA Algorithm\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+E:\Image proccessing\DDA Algorithm\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+E:\Image proccessing\DDA Algorithm\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfo.cs
+E:\Image proccessing\DDA Algorithm\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+E:\Image proccessing\DDA Algorithm\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.dll
+E:\Image proccessing\DDA Algorithm\WinFormsApp1\obj\Debug\net8.0-windows\refint\WinFormsApp1.dll
+E:\Image proccessing\DDA Algorithm\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.pdb
+E:\Image proccessing\DDA Algorithm\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.genruntimeconfig.cache
+E:\Image proccessing\DDA Algorithm\WinFormsApp1\obj\Debug\net8.0-windows\ref\WinFormsApp1.dll
