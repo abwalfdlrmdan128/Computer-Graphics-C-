@@ -4,8 +4,13 @@ This project demonstrates the **Digital Differential Analyzer (DDA) line drawing
 The lines are drawn on a **Bitmap** canvas instead of direct `Graphics`, which improves performance and allows easy clearing.
 
 ---
+- **MainForm**  
 ![MainForm](./Images/MainForm.jpg)
+
+- **DrawLine**  
 ![DrawLine](./Images/DrawLine.jpg)
+
+- **DeleteLine**  
 ![DeleteLine](./Images/DeleteLine.jpg)
 
 ## 📌 Features
