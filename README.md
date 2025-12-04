@@ -26,7 +26,7 @@ The lines are drawn on a **Bitmap** canvas instead of direct `Graphics`, which i
 ![MainForm](./Images/RotateLine.png)
 
 - **Clean**  
-![MainForm](./Images/CleanLine.png)
+![MainForm](./Images/ClearLine.png)
 
 ## 📌 Features
 - Implements DDA Line Drawing Algorithm.
