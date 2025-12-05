@@ -1,0 +1,20 @@
+C:\Users\Modern Computer\source\repos\circ\circ\bin\Debug\circ.exe.config
+C:\Users\Modern Computer\source\repos\circ\circ\bin\Debug\circ.exe
+C:\Users\Modern Computer\source\repos\circ\circ\bin\Debug\circ.pdb
+C:\Users\Modern Computer\source\repos\circ\circ\obj\Debug\circ.csproj.AssemblyReference.cache
+C:\Users\Modern Computer\source\repos\circ\circ\obj\Debug\circ.Form1.resources
+C:\Users\Modern Computer\source\repos\circ\circ\obj\Debug\circ.Properties.Resources.resources
+C:\Users\Modern Computer\source\repos\circ\circ\obj\Debug\circ.csproj.GenerateResource.cache
+C:\Users\Modern Computer\source\repos\circ\circ\obj\Debug\circ.csproj.CoreCompileInputs.cache
+C:\Users\Modern Computer\source\repos\circ\circ\obj\Debug\circ.exe
+C:\Users\Modern Computer\source\repos\circ\circ\obj\Debug\circ.pdb
+E:\Level 3\1st Term-20251113T145213Z-1-001\1st Term\CS\Computer Graphics\Sections\circ\circ\bin\Debug\circ.exe.config
+E:\Level 3\1st Term-20251113T145213Z-1-001\1st Term\CS\Computer Graphics\Sections\circ\circ\bin\Debug\circ.exe
+E:\Level 3\1st Term-20251113T145213Z-1-001\1st Term\CS\Computer Graphics\Sections\circ\circ\bin\Debug\circ.pdb
+E:\Level 3\1st Term-20251113T145213Z-1-001\1st Term\CS\Computer Graphics\Sections\circ\circ\obj\Debug\circ.csproj.AssemblyReference.cache
+E:\Level 3\1st Term-20251113T145213Z-1-001\1st Term\CS\Computer Graphics\Sections\circ\circ\obj\Debug\circ.Form1.resources
+E:\Level 3\1st Term-20251113T145213Z-1-001\1st Term\CS\Computer Graphics\Sections\circ\circ\obj\Debug\circ.Properties.Resources.resources
+E:\Level 3\1st Term-20251113T145213Z-1-001\1st Term\CS\Computer Graphics\Sections\circ\circ\obj\Debug\circ.csproj.GenerateResource.cache
+E:\Level 3\1st Term-20251113T145213Z-1-001\1st Term\CS\Computer Graphics\Sections\circ\circ\obj\Debug\circ.csproj.CoreCompileInputs.cache
+E:\Level 3\1st Term-20251113T145213Z-1-001\1st Term\CS\Computer Graphics\Sections\circ\circ\obj\Debug\circ.exe
+E:\Level 3\1st Term-20251113T145213Z-1-001\1st Term\CS\Computer Graphics\Sections\circ\circ\obj\Debug\circ.pdb
