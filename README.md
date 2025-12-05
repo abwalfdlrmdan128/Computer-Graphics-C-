@@ -1,4 +1,4 @@
-# DDA Line Drawing Algorithm – WinForms (C#)
+# 🎯 DDA Line Drawing Algorithm – WinForms (C#)
 
 This project demonstrates the **Digital Differential Analyzer (DDA) line drawing algorithm** using **C# Windows Forms**.  
 The lines are drawn on a **Bitmap** canvas instead of direct `Graphics`, which improves performance and allows easy clearing.
@@ -78,7 +78,7 @@ This project demonstrates how to draw a circle using **Bresenham’s Midpoint Ci
 The algorithm uses **integer arithmetic and 8-way symmetry** for fast and efficient rasterization of circles.
 
 - **MainForm**  
-![MainForm](./Images/)
+![MainForm](./Images/Circle.png)
 
 ---
 
@@ -118,21 +118,45 @@ This is the core idea of **8-way symmetry**.
 ## 🧩 Plotting Symmetric Points (Core Function)
 
 ```csharp
-void PlotCirclePoints(Bitmap b, int x_centre, int y_centre, int x, int y)
-{
-    b.SetPixel(x + x_centre, y + y_centre, Color.Red);
-    b.SetPixel(-x + x_centre, y + y_centre, Color.Red);
-    b.SetPixel(x + x_centre, -y + y_centre, Color.Red);
-    b.SetPixel(-x + x_centre, -y + y_centre, Color.Red);
+  private void drow(Bitmap b,int cx, int cy, int ra)
+  {
 
-    if (x != y)
-    {
-        b.SetPixel(y + x_centre, x + y_centre, Color.Red);
-        b.SetPixel(-y + x_centre, x + y_centre, Color.Red);
-        b.SetPixel(y + x_centre, -x + y_centre, Color.Red);
-        b.SetPixel(-y + x_centre, -x + y_centre, Color.Red);
-    }
-}
+      int r = ra;
+      int x_centre = cx;
+      int y_centre = cy;
+      int x = r, y = 0;
+      b.SetPixel(x + x_centre, y + y_centre, Color.Red);
+      b.SetPixel(-x + x_centre, y + y_centre, Color.Red);
+      b.SetPixel(x + x_centre, -y + y_centre, Color.Red);
+      b.SetPixel(-x + x_centre, -y + y_centre, Color.Red);
+      int P = 1 - r;
+      while (x > y)
+      {
+          y++;
+          if (P <= 0)
+              P = P + 2 * y + 1;
+          else
+          {
+              x--;
+              P = P + 2 * y - 2 * x + 1;
+          }
+          if (x < y)
+              break;
+
+          b.SetPixel(x + x_centre, y + y_centre, Color.Red);
+          b.SetPixel(-x + x_centre, y + y_centre, Color.Red);
+          b.SetPixel(x + x_centre, -y + y_centre, Color.Red);
+          b.SetPixel(-x + x_centre, -y + y_centre, Color.Red);
+          if (x != y)
+          {
+
+              b.SetPixel(y + x_centre, x + y_centre, Color.Red);
+              b.SetPixel(-y + x_centre, x + y_centre, Color.Red);
+              b.SetPixel(y + x_centre, -x + y_centre, Color.Red);
+              b.SetPixel(-y + x_centre, -x + y_centre, Color.Red);
+          }
+      }
+  }
 
 
 
